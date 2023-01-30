@@ -26,9 +26,9 @@ Project #2 will be graded using the following rubric. I strongly suggest evaluat
 
 | **Description/Writing**  |**I think I deserve** |**Actual Grade**|**Notes** |
 | :------------------------------- | -------: | ----: |:---- |
-| 1: Problem                       |        /2|       /2|    |
-| 2: Data Prep                     |        /2|       /2|    | 
-| 3: Research                      |       /10|      /10|    |
-| 4: Analysis                      |       /10|      /10|    | 
-| 5: Bumps in the Road.            |        /1|       /1|    |
-| <b>Total                         |       /25|      /25|    </b>|
+| 1: Problem                       |        /2|       2/2|    |
+| 2: Data Prep                     |        /2|       2/2|    | 
+| 3: Research                      |       /10|      10/10|    |
+| 4: Analysis                      |       /10|      10/10|    | 
+| 5: Bumps in the Road.            |        /1|       1/1|    |
+| <b>Total                         |       /25|      25/25|    </b>|
